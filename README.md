@@ -1,8 +1,7 @@
 # Customer App - DynamoDB Application Deployment
 
-## Links & Demo
+## Demo
 
-- **Live API Endpoint (LoadBalancer):** `http://a76e311dbd98d4e1a84a7af1fb1be86c-1625380515.us-east-1.elb.amazonaws.com`
 - **Video Demo:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1HrAkfHiXDHaA1R_3ndAWllfj5ZglhAjT/view?usp=sharing)
 - **Postman Collection:** `postman_collection.json` (included in repository)
 
